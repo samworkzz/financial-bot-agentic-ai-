@@ -1,7 +1,4 @@
-# financial-bot-agentic-ai-
- Here’s a description you can use or modify for your project’s README:
-
----
+# financial-bot-agentic-ai
 
 # Financial Bot with Agentic AI
 
