@@ -1,5 +1,3 @@
-# financial-bot-agentic-ai
-
 # Financial Bot with Agentic AI
 
 This project implements a **Financial Bot** leveraging **Agentic AI** to assist users with web-based information retrieval and financial analysis. It utilizes advanced AI models and tools to provide real-time stock data, analyst recommendations, and web search results, presenting the information in a user-friendly format. The bot integrates the following key functionalities:
